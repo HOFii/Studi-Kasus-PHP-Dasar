@@ -7,6 +7,6 @@ addTodoList("Elaina");
 addTodoList("Kiana");
 addTodoList("Asuna");
 addTodoList("Bronya");
-addTodoList("Fu Hua");
+addTodoList("Fuhua");
 
 viewShowTodoList();
