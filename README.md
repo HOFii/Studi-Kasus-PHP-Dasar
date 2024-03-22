@@ -342,4 +342,14 @@
 
 - Hapus
 
-![image](image/3.png)
+## ![image](image/3.png)
+
+## PERTANYAAN & CATATAN TAMBAHAN
+
+- tidak ada.
+
+---
+
+## KESIMPULAN
+
+- Dalam membuat aplikasi Todolist sederhana menggunakan PHP Dasar, meliputi pembuatan koneksi, pengembangan aplikasi dengan fitur menambahkan, menghapus, dan menampilkan tugas, pengujian fungsional.
